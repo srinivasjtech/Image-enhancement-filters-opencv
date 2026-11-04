@@ -72,7 +72,6 @@ Display all filtered images using a grid layout for comparison.
 ## Program
 
 ```py
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
